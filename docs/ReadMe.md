@@ -1,6 +1,6 @@
 ![](/docs/Additional/Material/GOAT.jpeg)
 
-<details closed><summary><h1>Rolling On With</h1></summary>
+<details closed><summary><h1>About</h1></summary>
 
 <details closed><summary><h2>Malbern</h2></summary>
 
@@ -54,13 +54,41 @@ is a way to clean up this digital world. Interests in all things technological a
 
 ***
 
-<details open><summary><h1>About</h1></summary>
+<details open><summary><h1>Pythaful</h1></summary>
 
-About
+It’s a lot of things actually. For we shall be Pythaful.
+This is the Pythonic Haunt.
+    It’s more of a quest to make Python everything and 
+ more.    
+      [Including other languages since it’s thought 
+       to be best as something that coexists.]
+
+Things it shall be.       
+The goals for this are…
+
+[><[0. **Pythaful**
+    A program, application, software, process, system, etc.[^0]
+
+    [><[0.0 **Navi**
+        File browser
+    
+    [><[0.1 **Cellelestial**
+        Interpreting text editor
+        
+    [><[0.2 **Act System**
+        Inter-processing systems utilization infrastructure[^1]
+    
+[><[1. Website
+
+[><[2. 
 
 </details>
 
 ***
+
+## Extra
+
+So this is a mission that started on the iOS.
 
 <details open><summary><h3>Areas</h1></summary>
 
@@ -81,3 +109,7 @@ About
 [Current](
 
 </details>
+
+[^0]: Something that runs everywhere and can be a part of anything.
+
+[^1]: a

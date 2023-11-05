@@ -1,5 +1,7 @@
 # Malbern Code Of Conduct
 
+## Work In Progress
+
 Whoever we may be or not be, we have a way of doing things.
 That way things can be kept short and sweet.
 Do what's right and be decent.
