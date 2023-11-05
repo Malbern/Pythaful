@@ -100,9 +100,10 @@ So this is a mission that started on the iOS.
 
 <details open><summary><h3>Areas</h1></summary>
 
-[Pythaful]()
+1. [Documents](/docs/TableOfContent.md) [^][^]: All the documentation regarding this project.
 
-[Guide Of All Things](
+[Additional](/docs/Additional/TableOfContent.md
+)[^][^]: Information and source.
 
 [Malbern](
 
