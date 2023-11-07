@@ -36,26 +36,6 @@ is anything and everything, organizing info and putting things together is what 
 
 <details closed><summary><h2>Pythaful</h2></summary>
 
-
-is a way to clean up this digital world. Interests in all things technological and beyond.
-
-#### Pythaful Locations
-
-* [**Com Website**](https://pythaful.com)
-
-* [**Discord**](https://discord.gg/xvQTmTa6af)
-<!—Links to Malbern currently—>
-
-</details>
-
-</details>
-
-***
-
-***
-
-<details open><summary><h1>Pythaful</h1></summary>
-
 Let it be all Pythaful! Hack the hack, stand up for your fundamental rights! This is a mission… The way to preserve and persevere is to be Pythaful!
 
 The motto is “so that it doesn’t happen to anyone else ever again…” To make the world a safer place to allow us to co-exist and reach beyond the stars.
@@ -73,7 +53,22 @@ A program, application, software, process, system, code, tools, utilities, etc.
 
 So it shall be and it shall be so.
 
-## The Eternium Collection
+#### Pythaful Locations
+
+* [**Com Website**](https://pythaful.com)
+
+* [**Discord**](https://discord.gg/xvQTmTa6af)
+<!—Links to Malbern currently—>
+
+</details>
+
+***
+
+</details>
+
+***
+
+<details open><summary><h1>About</h1></summary>
 
 [Pythaful Documentation](/docs/ReadMe.md)
 
